@@ -1,0 +1,19 @@
+title: FOR500 Docs
+description: Digital Forensics and Advanced Data Triage
+url: "https://rockafeller2013.github.io"
+baseurl: "/for500.github.io"
+
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+
+nav_order:
+  - Home
+  - Section 1 - Overview
+  - Section 2 - Overview
+
+aux_links:
+  "GitHub Repo":
+    - "//github.com/RockAfeller2013/for500.github.io"
