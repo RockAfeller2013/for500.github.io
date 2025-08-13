@@ -3,8 +3,7 @@ description: Digital Forensics and Advanced Data Triage
 url: "https://rockafeller2013.github.io"
 baseurl: "/for500.github.io"
 
-remote_theme: just-the-docs/just-the-docs
-
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
